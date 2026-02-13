@@ -1,4 +1,6 @@
-# apnacollege-demo
+# apnacollege-
+
 This is my first reepository
 <br>
-Author- aashutosh dabhade
+Author- aashutosh (college)
+
